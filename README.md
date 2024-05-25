@@ -1,7 +1,7 @@
 # sentiment_analysis 
 sentiment_analysis with python
 
-## When Run Flask application 
+# When Run Flask application 
 
 ![4](https://github.com/Dilini217/sentiment_analysis/assets/143861743/d326a696-c8ec-4dd3-91f4-880567ab9370)
 
