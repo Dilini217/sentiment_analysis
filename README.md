@@ -1,6 +1,14 @@
 # sentiment_analysis 
 sentiment_analysis with python
 
+Using Language : Python 
+Using Library  : Pandas,Numpy,Matplotlib,scikit
+Data Set       : from keggale
+NLTK           : for Preprocess Text data for further analysis like with ML model 
+Flask API      : for Building Web Applications 
+
+
+
 # When Run Flask application 
 
 ![4](https://github.com/Dilini217/sentiment_analysis/assets/143861743/d326a696-c8ec-4dd3-91f4-880567ab9370)
